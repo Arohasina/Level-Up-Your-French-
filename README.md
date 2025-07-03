@@ -6,8 +6,6 @@
 
 **Google Doc Link**: https://docs.google.com/document/d/1jGpdXDdU7qafmN9_lEAigKttqIAKwALNgQ69IkVdbLk/edit?tab=t.0
 
-**repo link**: https://github.com/Berea-College-CSC-226/p01-final-project-arohasina
-
 ---
 
 ## References
