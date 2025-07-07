@@ -1,7 +1,4 @@
 **Author(s)**: Arohasina Ravoahanginiaina
-
-**Google Doc Link**: https://docs.google.com/document/d/1jGpdXDdU7qafmN9_lEAigKttqIAKwALNgQ69IkVdbLk/edit?tab=t.0
-
 ---
 
 ## Milestone 1: Setup, Planning, Design
