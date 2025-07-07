@@ -1,36 +1,6 @@
-# CSC226 Final Project
-
-## Instructions
-
 **Author(s)**: Arohasina Ravoahanginiaina
 
 **Google Doc Link**: https://docs.google.com/document/d/1jGpdXDdU7qafmN9_lEAigKttqIAKwALNgQ69IkVdbLk/edit?tab=t.0
-
----
-
-## References
-
-- tkinter label and font tutorial : https://www.geeksforgeeks.org/python-tkinter-label/
-- font color list : https://cs111.wellesley.edu/archive/cs111_fall14/public_html/labs/lab12/tkintercolor.html
-
-- chat GPT for: encoding='utf-8' which allows the letter like "é" and "è" to display properly. I asked: how to get the
-letters "é" and "è" to display properly
-
-- chat GPT for the method:
-for widget in self.screen.winfo_children():
-        widget.destroy()
-I asked: how to remove the widgets when the event change
-
-    winfo_children() is a method that returns a list of all the child widgets of a particular widget
-    and then widget.destroy() removes all widget from the screen when it transitions to a new event
-
-- how to include a background in tkinter:
-https://stackoverflow.com/questions/10158552/how-to-use-an-image-for-the-background-in-tkinter
-
-- chat GPT for self.answer_var = tk.StringVar(), which is a Variable to hold selected answer and let me use it in the 
-to keep track of the user choice on the Quiz. I asked: how can i keep track of the user's answer
-
-- chat GPT for self.screen.resizable(False, False) which Disable window resizing. I asked: how do I not allow user to expand the screen
 
 ---
 
@@ -58,13 +28,9 @@ to keep track of the user choice on the Quiz. I asked: how can i keep track of t
 ## Milestone 2: Code Setup and Issue Queue
 
 ```
-So far, I feel like I have a pretty good idea of what I’m supposed to do, mostly because I spent time planning and 
+So far, I have a pretty good idea of what I’m supposed to do, mostly because I spent time planning and 
 breaking tasks into smaller steps. That really helped me get organized and gave me a clear direction.
-
-But honestly, I’m still feeling a bit anxious. Even though I know what needs to be done, I’m not always sure how to 
-turn those tasks into actual code.
-
-What worries me the most is getting stuck during implementation and not knowing how to fix it. 
+I know what needs to be done but I’m not always sure how to turn those tasks into actual code.
 At the same time, I’ve been surprised by how much the planning has helped me feel less overwhelmed overall.
 ```
 
